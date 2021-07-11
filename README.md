@@ -1,0 +1,1 @@
+# futwiz-scraper
